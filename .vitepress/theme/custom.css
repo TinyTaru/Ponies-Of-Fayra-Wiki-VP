@@ -1,0 +1,14 @@
+:root {
+  --vp-c-bg: transparent;
+  --poff-primary-gradient: linear-gradient(135deg, #4b0082 0%, #191970 100%);
+}
+
+body {
+  background: var(--poff-primary-gradient);
+}
+
+.VPApp,
+.VPContent,
+.VPHome {
+  background: transparent;
+}
