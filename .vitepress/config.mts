@@ -13,12 +13,11 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Characters',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
 		  { text: 'Characters List', link: '/characters/characters-list' },
-		  { text: 'Zeph', link: '/characters/zeph' }
+		  { text: 'Zeph', link: '/characters/zeph' },
+		  {text: 'Argon', link: '/characters/argon' }
         ]
       }
     ],
