@@ -5,4 +5,4 @@ layout: home
 hero:
   name: "Ponies Of Fayra Wiki"
   text: "The unofficial Ponies Of Fayra wiki"
-  tagline:
+  tagline: "Welcome"
